@@ -1,0 +1,40 @@
+_repo: Oeuvres-de-Napol-on-Bonaparte-Tome-II._12782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Napoleon I, Emperor of the French
+    aliases:
+    - Buonaparte, Napoleon
+    - Bonaparte, Napoleone
+    - Bonaparte, Napoleon
+    - Bonapart, Napoleon
+    birthdate: 1769
+    deathdate: 1821
+    gutenberg_agent_id: '4267'
+    url: http://www.gutenberg.org/2009/agents/4267
+    wikipedia: http://en.wikipedia.org/wiki/Napoleon_Bonaparte
+  editor:
+    agent_name: Panckoucke, C. L. F. (Charles Louis Fleury)
+    alias: Panckoucke, Charles Louis Fleury
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '35085'
+    url: http://www.gutenberg.org/2009/agents/35085
+description: ''
+gutenberg_bookshelf:
+- France
+- FR Guerres
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12782'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1815 -- Sources'
+- !lcc 'DC'
+- GITenberg
+title: Œuvres de Napoléon Bonaparte, Tome II.
+url: http://www.gutenberg.org/ebooks/12782
